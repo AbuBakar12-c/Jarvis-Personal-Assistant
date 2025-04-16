@@ -1,6 +1,6 @@
 **🧠 Jarvis Personal Assistant**
 
-Jarvis is a Python-based voice-activated desktop assistant that performs tasks like opening apps, searching the web, and retrieving information using natural speech. It integrates pyttsx3 for text-to-speech and speech_recognition for converting voice to commands. Designed for productivity and hands-free control, Jarvis offers a smart, interactive experience on your PC.
+Jarvis is a personal AI-powered voice assistant built with Python to streamline your daily tasks. It uses speech recognition and text-to-speech technologies to interact with users, execute commands, and control applications. Designed to enhance productivity, Jarvis offers hands-free control for various system functions and web services.
 
 **⚙️ How It Works**
 
