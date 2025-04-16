@@ -42,7 +42,8 @@ Jarvis loops continuously, always ready for your next command until you say "no 
 
 **⚙️ Setup**
 
-Create a virtual environment
+**Create a virtual environment (optional but recommended)**
+
 Open your terminal or command prompt and run:
 
 python -m venv jarvis-env
