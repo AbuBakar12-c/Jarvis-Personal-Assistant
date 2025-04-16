@@ -1,8 +1,9 @@
-🧠 Jarvis Personal Assistant
+**🧠 Jarvis Personal Assistant**
 
 Jarvis is a Python-based voice-activated desktop assistant that performs tasks like opening apps, searching the web, and retrieving information using natural speech. It integrates pyttsx3 for text-to-speech and speech_recognition for converting voice to commands. Designed for productivity and hands-free control, Jarvis offers a smart, interactive experience on your PC.
 
-⚙️ How It Works
+**⚙️ How It Works**
+
 When you run the script, Jarvis greets you based on the time of day.
 
 It uses your microphone to listen for commands, processes your speech with Google's speech recognition, and then responds using TTS (text-to-speech).
@@ -21,7 +22,8 @@ Closing apps via system processes
 
 Jarvis loops continuously, always ready for your next command until you say "no thanks" to exit.
 
-🌟 Features
+**🌟 Features**
+
 🎤 Voice-controlled using real-time speech recognition
 
 🗣️ Text-to-Speech interaction for a natural experience
@@ -38,7 +40,8 @@ Jarvis loops continuously, always ready for your next command until you say "no 
 
 🔄 Continuous listening loop with polite exit option
 
-⚙️ Setup
+**⚙️ Setup**
+
 Create a virtual environment
 Open your terminal or command prompt and run:
 
