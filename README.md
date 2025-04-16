@@ -48,10 +48,10 @@ Open your terminal or command prompt and run:
 
 python -m venv jarvis-env
 
-Activate the virtual environment
+**Activate the virtual environment**
 
 jarvis-env\Scripts\activate
 
-Install dependencies from requirements.txt
+**Install dependencies from requirements.txt**
 
 pip install -r requirements.txt
